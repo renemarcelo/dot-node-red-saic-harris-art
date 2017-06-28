@@ -1,0 +1,1 @@
+[{"id":"c80eaf83.67c","type":"tab","label":"Flow 1"},{"id":"107f2f38.ab8ee1","type":"function","z":"c80eaf83.67c","name":"hello","func":"msg = \"hello world\"\nreturn msg;","outputs":1,"noerr":0,"x":257.5,"y":618,"wires":[[]]}]
