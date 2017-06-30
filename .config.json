@@ -454,7 +454,7 @@
   "node-red-contrib-postgres": {
    "name": "node-red-contrib-postgres",
    "version": "0.6.1",
-   "local": true,
+   "local": false,
    "nodes": {
     "PostgreSql": {
      "name": "PostgreSql",
@@ -463,9 +463,9 @@
       "postgres"
      ],
      "enabled": true,
-     "local": true,
+     "local": false,
      "module": "node-red-contrib-postgres",
-     "file": "/Users/renemarcelo/.node-red/node_modules/node-red-contrib-postgres/postgres.js"
+     "file": "/Users/renemarcelo/.node/lib/node_modules/node-red-contrib-postgres/postgres.js"
     }
    }
   },
