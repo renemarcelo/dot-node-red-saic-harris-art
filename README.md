@@ -1,6 +1,6 @@
 ##Links
 
-- https://github.com/renemarcelo/dot-node-red-saic-harris-art/blob/master/.start.backup (this is the code you can 'import' into node red via copy-paste)
+- https://github.com/renemarcelo/dot_node_red_saic_harris_art/blob/master/.start.backup (this is the code you can 'import' into node red via copy-paste)
 
 - https://www.npmjs.com/package/node-red-contrib-moment
 
