@@ -20,3 +20,6 @@
 ## Final Recording
 A baseline loop was used to provide aural 'stability' in the final recording:
 - https://soundcloud.com/rene-on-iot/rene-marcelo-turbidity-iot
+
+## Publications
+- https://europepmc.org/articles/PMC5949598/figure/f9/
