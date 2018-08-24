@@ -1,4 +1,4 @@
-##Links
+## Links
 
 - https://github.com/renemarcelo/dot_node_red_saic_harris_art/blob/master/.start.backup (this is the code you can 'import' into node red via copy-paste)
 
@@ -22,4 +22,4 @@ A baseline loop was used to provide aural 'stability' in the final recording:
 - https://soundcloud.com/rene-on-iot/rene-marcelo-turbidity-iot
 
 ## Publications
-- https://europepmc.org/articles/PMC5949598/figure/f9/
+- [https://europepmc.org/articles/PMC5949598/figure/f9/]
