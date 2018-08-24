@@ -17,16 +17,16 @@ title: Node-red in fountains project
 email: 1162669+renemarcelo@users.noreply.github.com
 description: >- # this means to ignore newlines until "baseurl:"
 
-baseurl: "http://rene.codes/dot_node_red_saic_harris_art/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# baseurl: "http://rene.codes/dot_node_red_saic_harris_art/" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+# github_username:  jekyll
 
 # Build settings
-markdown: kramdown
-theme: jekyll-theme-tactile
-plugins:
-  - jekyll-feed
+# markdown: kramdown
+theme: jekyll-theme-hacker
+# plugins:
+#   - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
